@@ -40,7 +40,15 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)**, apasionado por la te
 
 - 📚 **IES Camas Antonio-Brisquet**  
   - CFGS Desarrollo de Aplicaciones Web  
-  - Año: 2024-2027  
+  - Año: 2025-2027
+
+- 📚 **IES Camas Antonio-Brisquet**
+  - CFGM Sistemas Microinformáticos y Redes
+  - Año: 2023-2025
+
+- 📚 **IES Alixar**
+  - ESO
+  - Año: 2019-2023
 
 ---
 
