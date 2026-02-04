@@ -6,7 +6,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)**, apasionado por la te
 - 🌱 Aprendiendo: **HTML, CSS, Java y PHP**  
 - 👯 Buscando colaborar en: **Proyectos educativos y open source**  
 - 💬 Pregúntame sobre: **Desarrollo web, programación front-end y back-end, bases de datos y buenas prácticas de código**  
-- 📫 Cómo contactarme: **ruiz.garrido.carlos.manuel@iescamas.es**  
+- 📫 Cómo contactarme: **carlosmanuelruizgarrrido@gmail.com**  
 - ⚡ Dato curioso: **Me gusta aprender cosas nuevas, explorar tecnologías emergentes y crear mini proyectos personales**  
 
 ---
@@ -59,7 +59,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)**, apasionado por la te
 ## 🌐 Conéctate Conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-manuel-ruiz-garrido-0074423a9/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruiz.garrido.carlos.manuel@iescamas.es)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosmanuelruizgarrrido@gmail.com)  
 
 ---
 
