@@ -7,7 +7,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)**, apasionado por la te
 - 👯 Buscando colaborar en: **Proyectos educativos y open source**  
 - 💬 Pregúntame sobre: **Desarrollo web, programación front-end y back-end, bases de datos y buenas prácticas de código**  
 - 📫 Cómo contactarme: **ruiz.garrido.carlos.manuel@iescamas.es**  
-- ⚡ Dato curioso: **Me gusta aprender cosas nuevas, explorar tecnologías emergentes, crear mini proyectos personales y siempre intento automatizar tareas aburridas con código**  
+- ⚡ Dato curioso: **Me gusta aprender cosas nuevas, explorar tecnologías emergentes y crear mini proyectos personales**  
 
 ---
 
